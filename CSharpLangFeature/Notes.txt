@@ -1,0 +1,8 @@
+
+Spec: 
+https://github.com/dotnet/csharplang/tree/master/spec
+
+Cheatsheets
+https://github.com/ForkedRepo/awesome-cheatsheets/blob/master/languages/C%23.txt
+
+
