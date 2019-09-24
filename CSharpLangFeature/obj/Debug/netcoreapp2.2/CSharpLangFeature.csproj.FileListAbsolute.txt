@@ -9,3 +9,14 @@
 /Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CSharpLangFeature/CSharpLangFeature/bin/Debug/netcoreapp2.2/CSharpLangFeature.pdb
 /Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CSharpLangFeature/CSharpLangFeature/obj/Debug/netcoreapp2.2/CSharpLangFeature.dll
 /Users/mlbd.shahidul/git/TechLearning/DotNet/CSharp/CSharpLangFeature/CSharpLangFeature/obj/Debug/netcoreapp2.2/CSharpLangFeature.pdb
+E:\gitClone\CSharpLangFeature\CSharpLangFeature\bin\Debug\netcoreapp2.2\CSharpLangFeature.deps.json
+E:\gitClone\CSharpLangFeature\CSharpLangFeature\bin\Debug\netcoreapp2.2\CSharpLangFeature.runtimeconfig.json
+E:\gitClone\CSharpLangFeature\CSharpLangFeature\bin\Debug\netcoreapp2.2\CSharpLangFeature.runtimeconfig.dev.json
+E:\gitClone\CSharpLangFeature\CSharpLangFeature\bin\Debug\netcoreapp2.2\CSharpLangFeature.dll
+E:\gitClone\CSharpLangFeature\CSharpLangFeature\bin\Debug\netcoreapp2.2\CSharpLangFeature.pdb
+E:\gitClone\CSharpLangFeature\CSharpLangFeature\obj\Debug\netcoreapp2.2\CSharpLangFeature.csproj.CoreCompileInputs.cache
+E:\gitClone\CSharpLangFeature\CSharpLangFeature\obj\Debug\netcoreapp2.2\CSharpLangFeature.AssemblyInfoInputs.cache
+E:\gitClone\CSharpLangFeature\CSharpLangFeature\obj\Debug\netcoreapp2.2\CSharpLangFeature.AssemblyInfo.cs
+E:\gitClone\CSharpLangFeature\CSharpLangFeature\obj\Debug\netcoreapp2.2\CSharpLangFeature.dll
+E:\gitClone\CSharpLangFeature\CSharpLangFeature\obj\Debug\netcoreapp2.2\CSharpLangFeature.pdb
+E:\gitClone\CSharpLangFeature\CSharpLangFeature\obj\Debug\netcoreapp2.2\CSharpLangFeature.csprojAssemblyReference.cache

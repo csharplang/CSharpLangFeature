@@ -1,8 +1,5 @@
-﻿using System;
-using CSharpLangFeature.List.Delegates;
-using CSharpLangFeature.List.Generics;
-using CSharpLangFeature.List.Serialization;
-using CSharpLangFeature.ListCollection;
+﻿using CSharpLangFeature.List._10ExtensionMethod;
+using System;
 
 namespace CSharpLangFeature
 {
@@ -10,8 +7,9 @@ namespace CSharpLangFeature
     {
         static void Main(string[] args)
         {
-            Serialization.DoSerialization();
-            Serialization.DoDeSerialization();
+            ExtensionMethodRun.Execute();
+            //Serialization.DoSerialization();
+            //Serialization.DoDeSerialization();
 
             //NonGeneric.HashSet();
             //Generic.CheckElementinLinkedList();
