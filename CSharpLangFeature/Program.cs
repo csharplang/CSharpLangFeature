@@ -7,7 +7,8 @@ namespace CSharpLangFeature
     {
         static void Main(string[] args)
         {
-            ExtensionMethodRun.Execute();
+
+            //ExtensionMethodRun.Execute();
             //Serialization.DoSerialization();
             //Serialization.DoDeSerialization();
 
